@@ -57,13 +57,3 @@ button:hover {
     transform: scale(1.05);
 }
 
-/* H1 için farklı saatlere göre renk değişimi (opsiyonel) */
-.morning {
-    color: #ff9800; /* turuncu */
-}
-.afternoon {
-    color: #4caf50; /* yeşil */
-}
-.evening {
-    color: #9c27b0; /* mor */
-}
